@@ -1,25 +1,31 @@
 # The Nightfall Prince
 
-Et selvstændigt fantasy-spil under udvikling med vedvarende figurer, udforskning og co-op.
+The Nightfall Prince er det eneste navn. Det er et selvstændigt fantasy-spil under udvikling med vedvarende figurer, udforskning og co-op.
 
-Det officielle navn er The Nightfall Prince. Denne side er den rigtige placering for spillerpakker og opdateringer. Kildekoden ligger i det private repository.
+Arbejdstitlen er udfaset. Nye pakker, tekster og links bruger kun The Nightfall Prince. Ældre filer på disk kan stadig have det gamle filnavn, indtil næste build er pakket og testet. Det ændrer ikke navnet på spillet.
 
-## Aktuel Windows-test
+## Hvor tingene ligger
 
-[Hent Windows-test 2026.10.02.4](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases/download/playtest-v2026.10.02.4/Sunfall-Playtest-2026.10.02.4-Windows.zip).
+- Spillerpakker og opdateringer: dette repo, [releases](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases).
+- Kildekode: privat repo `the-nightfall-prince`. Venner skal ikke have adgang til det.
+- Steam er endnu ikke aktiveret.
 
-Pakken er den seneste udsendte playtest. Filnavnet på den allerede udgivne ZIP er uændret, så eksisterende links stadig virker. Begge venner skal bruge præcis samme version. Pak hele ZIP-filen ud før start; der kræves ingen GitHub-konto eller udviklingsværktøjer. Denne portable testpakke har ikke automatisk opdatering.
+## Nuværende testpakke
 
-Næste udsendte pakke får filnavn med The Nightfall Prince, ikke det gamle arbejdsnavn.
+[Hent Windows-testen 2026.10.02.4](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases/download/playtest-v2026.10.02.4/Sunfall-Playtest-2026.10.02.4-Windows.zip).
 
-## Tidligere installer og Norton-sag
+Filnavnet på den allerede udgivne zip er ikke omdøbt, fordi release-assetet ligger fast. Indholdet er den ældre testudgave. Begge venner skal bruge præcis samme version. Pak hele ZIP-filen ud før start, og behold hele mappen. Der kræves ingen GitHub-konto eller udviklingsværktøjer. Denne portable test har ikke automatisk opdatering.
 
-Installeren 2026.09.30.7 er en separat distributionskanal og er ikke den nye testudgave. Norton registrerede IDP.Generic i dens Launcher.ps1 under en isoleret udviklertest den 30. september 2026. Rapporten og filen er indsendt; modtagelse er bekræftet, men en teknisk afgørelse er ikke dokumenteret her. Behold sikkerhedsbeskyttelsen aktiv, hvis en fil blokeres.
+Næste pakke får filnavnet `The-Nightfall-Prince-Playtest-<version>-Windows.zip`.
+
+## Tidligere installer
+
+Installer 2026.09.30.7 er en separat, ældre kanal og må ikke blandes med playtest-zip 2026.10.02.4. Norton registrerede IDP.Generic i dens Launcher.ps1 under en isoleret udviklertest den 30. september 2026. Rapporten er indsendt; en teknisk afgørelse er ikke dokumenteret her. Behold sikkerhedsbeskyttelsen aktiv, hvis en fil blokeres.
 
 ## Saves og feedback
 
-Navneskiftet bevarer eksisterende fremskridt. The Nightfall Prince kopierer gamle saves ved første start og overskriver ikke allerede eksisterende profiler. Tag altid backup før manuelle ændringer.
+Navneskiftet skal bevare fremskridt. Den nye udgave kopierer gamle saves ved første start og overskriver ikke allerede eksisterende profiler. Den lokale save-mappe hedder stadig `Sunfall`, indtil engine-id og save-migration er skiftet i samme build. Tag backup før manuelle ændringer.
 
-Feedback sendes manuelt via spillets ESC → Bug Report. Spillet indsamler ikke automatisk en privat fejlrapport gennem dette repository.
+Feedback sendes manuelt via ESC → Bug Report. Spillet indsamler ikke automatisk en privat fejlrapport gennem dette repository.
 
-Steam-udgivelse og Steam Wallet er endnu ikke aktiveret. Nye spilpakker, opdateringer og eventuelle kendte begrænsninger annonceres på denne sides [releases](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases).
+Nye pakker, opdateringer og kendte begrænsninger annonceres på [releases](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases).
