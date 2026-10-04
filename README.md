@@ -2,21 +2,23 @@
 
 Et selvstændigt fantasy-spil under udvikling med vedvarende figurer, udforskning og co-op.
 
-Spillet og projektet har fået nyt navn. Den samlede nye Windows-udgave er ved at blive bygget og testet. Denne side opdateres med den nye pakke, når kontrollen er gennemført. Repositoriets navneskift ændrer ikke i sig selv indholdet af tidligere udgivelser.
+Det officielle navn er The Nightfall Prince. Denne side er den rigtige placering for spillerpakker og opdateringer. Kildekoden ligger i det private repository.
 
-## Eksisterende testpakke
+## Aktuel Windows-test
 
-[Hent den allerede udgivne Windows-test 2026.10.02.4](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases/download/playtest-v2026.10.02.4/Sunfall-Playtest-2026.10.02.4-Windows.zip).
+[Hent Windows-test 2026.10.02.4](https://github.com/deanlillelund2000-web/the-nightfall-prince-downloads/releases/download/playtest-v2026.10.02.4/Sunfall-Playtest-2026.10.02.4-Windows.zip).
 
-Det er en ældre udgave med det tidligere navn. Begge venner skal bruge præcis samme version. Pak hele ZIP-filen ud før start; der kræves ingen GitHub-konto eller udviklingsværktøjer. Denne portable testpakke har ikke automatisk opdatering.
+Pakken er den seneste udsendte playtest. Filnavnet på den allerede udgivne ZIP er uændret, så eksisterende links stadig virker. Begge venner skal bruge præcis samme version. Pak hele ZIP-filen ud før start; der kræves ingen GitHub-konto eller udviklingsværktøjer. Denne portable testpakke har ikke automatisk opdatering.
+
+Næste udsendte pakke får filnavn med The Nightfall Prince, ikke det gamle arbejdsnavn.
 
 ## Tidligere installer og Norton-sag
 
-Den tidligere installer 2026.09.30.7 er en separat distributionskanal og er ikke den nye testudgave. Norton registrerede IDP.Generic i dens Launcher.ps1 under en isoleret udviklertest den30.september2026. Rapporten og filen er indsendt; modtagelse er bekræftet, men en teknisk afgørelse er ikke dokumenteret her. Behold sikkerhedsbeskyttelsen aktiv, hvis en fil blokeres.
+Installeren 2026.09.30.7 er en separat distributionskanal og er ikke den nye testudgave. Norton registrerede IDP.Generic i dens Launcher.ps1 under en isoleret udviklertest den 30. september 2026. Rapporten og filen er indsendt; modtagelse er bekræftet, men en teknisk afgørelse er ikke dokumenteret her. Behold sikkerhedsbeskyttelsen aktiv, hvis en fil blokeres.
 
 ## Saves og feedback
 
-Navneskiftet skal bevare eksisterende fremskridt. Den nye udgave kopierer gamle saves ved første start og overskriver ikke allerede eksisterende profiler. Tag altid backup før manuelle ændringer.
+Navneskiftet bevarer eksisterende fremskridt. The Nightfall Prince kopierer gamle saves ved første start og overskriver ikke allerede eksisterende profiler. Tag altid backup før manuelle ændringer.
 
 Feedback sendes manuelt via spillets ESC → Bug Report. Spillet indsamler ikke automatisk en privat fejlrapport gennem dette repository.
 
